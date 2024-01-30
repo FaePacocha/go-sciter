@@ -1,6 +1,6 @@
-# Go bindings for Sciter
+#*Go bindings for Sciter
 
-[![AppVeyor status](https://ci.appveyor.com/api/projects/status/rphv883klffw9em9/branch/master?svg=true)](https://ci.appveyor.com/project/pravic/go-sciter)
+[*[AppVeyor status](https://ci.appveyor.com/api/projects/status/rphv883klffw9em9/branch/master?svg=true)](https://ci.appveyor.com/project/pravic/go-sciter)
 [![Travis Status](https://travis-ci.com/sciter-sdk/go-sciter.svg?branch=master)](https://travis-ci.com/sciter-sdk/go-sciter)
 [![License](https://img.shields.io/github/license/sciter-sdk/go-sciter.svg)](https://github.com/sciter-sdk/go-sciter)
 [![Join the forums at https://sciter.com/forums](https://img.shields.io/badge/forum-sciter.com-orange.svg)](https://sciter.com/forums)
@@ -129,3 +129,4 @@ pure C header files for Sciter. :)
 
 [author]: http://sciter.com/about/
 [mingw64-gcc]: http://sourceforge.net/projects/mingw-w64/
+ 
